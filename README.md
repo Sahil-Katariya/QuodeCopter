@@ -42,8 +42,7 @@ A lightweight, modular **ESP32-based flight controller** firmware designed for c
 
 ## 📊 GUI Preview
 
-> Web-based GUI (similar to Betaflight) for live PID tuning and sensor monitoring  
-
+- Web-based GUI (similar to Betaflight) for live PID tuning and sensor monitoring  
 ---
 
 ## 🛡️ Safety Notes
